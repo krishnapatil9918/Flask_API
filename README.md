@@ -61,7 +61,3 @@ This project follows **RESTful API principles**, including:
 - **Caching using Python dictionaries**
 - **Streaming large datasets with generators**
 - **Error handling and custom error messages**
-
----
-
-This project is perfect for learning **RESTful API design in Flask** and demonstrates how to structure APIs for real-world applications.
