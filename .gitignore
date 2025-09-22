@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+
+# Environment / secrets
+*.env
+
+# Flask specific
+uploads/
+
+# Logs
+*.log
+
+# AWS and other secrets
+*.pem
